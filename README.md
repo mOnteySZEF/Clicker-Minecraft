@@ -1,4 +1,4 @@
-# Montey CLicker Premium
+# mOntey Clicker Premium
 
 ## Opis projektu
 
