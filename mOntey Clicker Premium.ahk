@@ -15,8 +15,7 @@ nAttempt += 1
 if (nAttempt = 3)
    exitapp
 
-; Basic logic.
-If (uPassword == cPassword) ; == is case sensitive, = is case insensitive.
+If (uPassword == cPassword)
 MsgBox, Zalogowano Pomyślnie :) 
 Else
    {
